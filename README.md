@@ -63,8 +63,7 @@ Click here to download: **[`Customer_Segmentation_Dashboard.pbix`](#)**
 
 ---
 
-## 📷 **Dashboard Preview**
-_(Replace this placeholder with your final screenshot)_  
+## 📷 **Dashboard Preview**  
 ![Dashboard Preview](dashboard_preview.png)
 
 ---

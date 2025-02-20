@@ -1,4 +1,4 @@
-# 📊 Customer Segmentation & Insurance Insights Dashboard
+# 📊 Customer Segmentation Dashboard
 ### 🚀 Power BI Project
 
 ![Dashboard Preview](dashboard_preview.png)
